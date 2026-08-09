@@ -1,0 +1,8 @@
+{
+  "name": "up591-f26s27-website",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@quarto/netlify-plugin-quarto": "^0.0.5"
+  }
+}

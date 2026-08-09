@@ -1,7 +1,8 @@
 project:
   type: website
-  render: 
+  render:
     - "*.qmd"
+    - "!_private/**"
 
 execute: 
   freeze: auto

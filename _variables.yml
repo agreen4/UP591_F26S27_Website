@@ -11,14 +11,13 @@ instructor:
 
 course:
   number: "UP 591"
-  semester: "2025 - 2026"
+  semester: "2026 - 2027"
   days: "Fridays"
   time: "12:00 pm - 12:50 pm"
   location: "TBH 225"
-  copyright_year: "2025"
-  slack: ""
-  github: "https://github.com/agreen4/UP591_F25S26_Website"
-  survey: ""
+  copyright_year: "2026"
+  github: "https://github.com/agreen4/UP591_F26S27_Website"
+  survey: ""   # Qualtrics mentoring matching survey URL (link to follow by Aug): ""
 
   
 university:
