@@ -8,36 +8,49 @@ editor: source
 
 Our monthly seminar sessions are 50 minutes in length.
 
-On the sidebar, you will find a week-by-week description of each seminar session and any related deliverables.
+On the sidebar, you will find a description of each seminar session and any related deliverables.
+
+*Session dates for AY 2026–27 are to be set; the calendar below reflects the planned monthly cadence and topics. Dates will be updated once confirmed.*
 
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
 | **Date**   | **Description**                                                      | **Activities**                                                                           |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 8/29/ 2025 | [Seminar Introduction](01_Introduction.qmd)                          | -   **Learn:** Course introduction and structure                                         |
-|            |                                                                      |                                                                                          |
+| Aug 2026   | [Seminar Introduction](01_Introduction.qmd)                          | -   **Learn:** Course introduction and structure, mentoring pilot overview                |
+| *TBD*      |                                                                      |                                                                                          |
 |            |                                                                      | -   **Review:** Plan of Study Peer Review                                                |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 9/19/2025  | [Introduction to FAA Career Services](02_DevelopmentPlan.qmd)        | -   **Learn:** Conversation with Ana Rodas, FAA Career Services                          |
-|            |                                                                      |                                                                                          |
+| Sep 2026   | [FAA Career Services & Building a Professional Network](02_CareerServices.qmd) | -   **Learn:** Conversation with Ana Rodas, FAA Career Services                          |
+| *TBD*      |                                                                      |                                                                                          |
 |            |                                                                      | -   **Reflect:** Building a Professional Network                                         |
 |            |                                                                      |                                                                                          |
 |            |                                                                      | -   **Review:** Jobs and Qualifications                                                  |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 10/31/2025 | [Developing a Professional Portfolio](03_Portfolio1.qmd) - Session 1 | -   **Learn:** Portfolio Structure and Goals                                             |
-|            |                                                                      |                                                                                          |
+| Oct 2026   | [Mentor Panel: Building a Professional Identity & Practice](03_MentorPanel.qmd) (Zoom) | -   **Learn:** Panel discussion with mentor-practitioners               |
+| *TBD*      |                                                                      |                                                                                          |
+|            |                                                                      | -   **Reflect:** The trade-offs panelists have made across their careers                 |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| Nov 2026   | [Portfolio Development](04_Portfolio.qmd)                            | -   **Learn:** Portfolio structure and goals                                             |
+| *TBD*      |                                                                      |                                                                                          |
 |            |                                                                      | -   **Reflect:** Key Document Review                                                     |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 11/14/2025 | [Developing a Professional Portfolio](04_Portfolio2.qmd) - Session 2 | -   **Reflect:** Portfolio Peer Review                                                   |
-|            |                                                                      |                                                                                          |
-|            |                                                                      | -   **Review:** Portfolio Goal Setting                                                   |
+| Dec 2026   | [End-of-Semester Studio + Feedback Launch](05_CheckIn.qmd)           | -   **Review:** Studio peer review of near-final portfolios                              |
+| *TBD*      |                                                                      |                                                                                          |
+|            |                                                                      | -   **Reflect:** December structured feedback exchange with mentor                       |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 12/5/2025  | [End of Semester Check-In](05_CheckIn.qmd)                           | -   **Review:** End of Semester Presentations                                            |
+| Jan 2027   | [Semester 2 Check-In](06_CheckIn.qmd)                                | -   **Reflect:** Progress since December; set goals for the spring.                      |
+| *TBD*      |                                                                      |                                                                                          |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 1/23/2026  | [Semester 2 Check-In](06_CheckIn.qmd)                                | -   **Reflect:** Reflect upon your progress since December and set goals for the spring. |
+| Feb 2027   | [Developing a Job Search Strategy](07_JobSearch.qmd)                 | -   **Learn:** Considerations for developing a job search strategy.                      |
+| *TBD*      |                                                                      |                                                                                          |
+|            |                                                                      | -   **Reflect:** Transition planning conversation with your mentor                       |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 2/20/2026  | [Developing a Job Search Strategy](07_JobSearch.qmd)                 | -   **Learn:** Considerations for developing a job search strategy.                      |
+| Mar 2027   | [Professional Identity & Capstone Communication](08_Identity.qmd)    | -   **Reflect:** Articulate and update your professional identity                        |
+| *TBD*      |                                                                      |                                                                                          |
+|            |                                                                      | -   **Review:** Translating your capstone work for audiences                             |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 3/27/2026  | [Claiming Your Professional Identity](08_Identity.qmd)               | -   **Reflect:** Articulate and update your professional identity                        |
+| Apr 2027   | [Poster Review + Exit Prep](09_Poster.qmd)                           | -   **Review:** Peer review of draft posters                                             |
+| *TBD*      |                                                                      |                                                                                          |
+|            |                                                                      | -   **Reflect:** April final feedback exchange with mentor                               |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
-| 4/24/2026  | [Capstone Draft Poster Markup](09_Poster.qmd)                        | -   **Review:** Peer review of draft posters                                             |
+| May 2027   | Awards Ceremony & Convocation                                        | -   **Reflect:** Program close and recognition; mentors invited to capstone reception    |
 +------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+

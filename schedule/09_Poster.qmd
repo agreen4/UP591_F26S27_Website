@@ -1,20 +1,34 @@
 ---
-title: "Capstone Draft Poster Markup"
+title: "Poster Review + Exit Prep"
 format: html
 toc: true
 editor: source
 ---
 ## Session Overview
 
-In this session, you'll pin up a draft version of your MUP poster for review and feedback from the Planning at Illinois community. Please come prepared to both give and recieve feedback on your poster.
+In this session, you'll pin up a draft version of your MUP poster for review and feedback from the Planning at Illinois community. Please come prepared to both give and receive feedback on your poster. This is also the final structured feedback exchange with your mentor.
 
 ## Before we Meet
 
 Print a draft version of your MUP poster. Be prepared to pin up this poster at the very beginning of our meeting time.
 
+Watch our (short) **April pre-session video**.
+
+## When we Meet
+
+- Peer review of draft posters.
+- Final structured feedback exchange with your mentor.
+
 ## After we Meet
 
-Take the feedback you received on your draft to refine and prepare your final MUP poster for presentation at our end of the year celebration.
+- Complete the April final feedback exchange with your mentor (they provide final feedback; you complete the confidential evaluation).
+- Take the feedback you received on your draft to refine and prepare your final MUP poster for presentation at our end of the year celebration.
+- Submit your **Draft MUP Poster** and prepare your **Capstone Exit submission** (May).
+- Accomplish your April goal.
+
+**Course milestone:** Draft MUP Poster (Apr) / Capstone Exit Submission (May).
+
+**Mentoring milestone:** April final feedback exchange + mentee evaluation.
 
 ## Additional Resources
 
@@ -30,7 +44,7 @@ There are specific step-by-step instructions posted in the lab. Below are some a
 
 **Printer Options:**
 
-- **Printer XL4100:** This is ideal for your dra􀅌 poster. It is cheaper to print and the paper is thinner.
+- **Printer XL4100:** This is ideal for your draft poster. It is cheaper to print and the paper is thinner.
 
 - **Printer DJZ9-2:** This is a higher quality printer (matte) that may be better for your final poster. It does cost more to print.
 

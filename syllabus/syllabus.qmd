@@ -18,9 +18,9 @@ The Capstone Seminar is a professional development platform for Master of Urban 
 
 **Forms and Templates**
 
--   [Capstone Adoption Form](files/02_CapstoneAdoption.pdf)
+-   [Capstone Adoption Form](../milestones/files/02_CapstoneAdoption.pdf)
 
--   [Plan of Study template](files/MUP%20Plan%20of%20Study%20Template%2020240819.docx)
+-   [Plan of Study template](../milestones/files/MUP Plan of Study Template 20240819.docx)
 
 -   [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
 
@@ -88,7 +88,7 @@ As you learn and face challenges this semester, I need you to communicate with m
 
 The University of Illinois is committed to combating sexual misconduct. Faculty and staff members are required to report any instances of sexual misconduct to the University's Title IX and Disability Office. In turn, an individual with the Title IX and Disability Office will provide information about rights and options, including accommodations, support services, the campus disciplinary process, and law enforcement options.
 
-A list of the designated University employees who, as counselors, confidential advisors, and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found [here](wecare.illinois.edu/resources/students/#confidential). Other information about resources and reporting is available at [wecare.illinois.edu](wecare.illinois.edu).
+A list of the designated University employees who, as counselors, confidential advisors, and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found [here](https://wecare.illinois.edu/resources/students/#confidential). Other information about resources and reporting is available at [wecare.illinois.edu](https://wecare.illinois.edu).
 
 ### Mental Health
 

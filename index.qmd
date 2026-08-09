@@ -6,19 +6,21 @@ sidebar: false
 editor: source
 ---
 
-Welcome to the UP 591: Capstone Seminar website for the 2025-2026 Academic Year.
+Welcome to the UP 591: Capstone Seminar website for the 2026-2027 Academic Year.
+
+**This year, UP 591 includes a new mentoring component.** Every second-year student will be matched with a MUP alumnus or planning practitioner as a mentor for the full academic year — six check-ins between August and May, two structured feedback exchanges (December and April), and an October mentor panel held over Zoom during our monthly seminar. Details and the matching survey link will be posted in August.
 
 ::: home
 ::: {.grid .course-details}
 ::: {.g-col-8 .g-col-sm-8 .g-col-md-8}
 ### Instructor
 
--   {{< fa user >}}   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
+-   {{< fa user >}}   [{{< var instructor.name >}}]({{< var instructor.url >}})
 -   {{< fa university >}}   {{< var instructor.office >}}
 -   {{< fa envelope >}}   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
--   {{< fa brands github >}}   [Github](%7B%7B%3C%20var%20instructor.github%20%3E%7D%7D)
--   {{< fa brands mastodon >}}   [{{< var instructor.mastodon >}}](%7B%7B%3C%20var%20instructor.mastodon%20%3E%7D%7D)
--   {{< fa calendar-check >}}   [Schedule an appointment](%7B%7B%3C%20var%20instructor.calendly_url%20%3E%7D%7D)
+-   {{< fa brands github >}}   [Github]({{< var instructor.github >}})
+-   {{< fa brands mastodon >}}   [{{< var instructor.mastodon >}}]({{< var instructor.mastodon >}})
+-   {{< fa calendar-check >}}   [Schedule an appointment]({{< var instructor.calendly_url >}})
 :::
 
 ::: {.g-col-4 .g-col-sm-4 .g-col-md-4}

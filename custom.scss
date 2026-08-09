@@ -1,7 +1,184 @@
 /*-- scss:defaults --*/
 
+// ---- Midnight Blue palette (adapted from the MUP platform design) ----
+$midnight:      #1c2b4a;   // --color-primary
+$sidebar-navy:  #172238;   // --color-sidebar
+$accent:        #4a9eda;   // --color-accent
+$accent-mid:    #3a5fa8;   // --color-accent-mid (readable link color on white)
+$light-bg:      #e8f0fb;   // --color-light-bg
+$border:        #c5d5ee;   // --color-border
+$body-bg:       #f4f6fb;   // --color-body-bg
+$ink:           #111111;   // --color-text
+
 // Base document colors
-$link-color: #1B2CC1;
+$link-color: $accent-mid;
+$code-color: $midnight;
+$headings-color: $midnight;
+$body-bg: $body-bg;
+$body-color: $ink;
+$table-striped-bg: $light-bg;
 
 /*-- scss:rules --*/
 
+// ----- Top navbar: midnight blue, white text, accent underline -----
+.navbar {
+  background-color: $midnight !important;
+  border-bottom: 2px solid rgba(#fff, 0.08);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: rgba(#fff, 0.82);
+}
+
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus,
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #fff;
+}
+
+.navbar .nav-link.active {
+  color: #fff;
+  font-weight: 600;
+  border-bottom: 2px solid $accent;
+}
+
+// Dropdown menus so they stay legible on the dark bar
+.navbar .dropdown-menu {
+  background-color: #fff;
+  border: 1px solid $border;
+  border-radius: 6px;
+}
+
+.navbar .dropdown-menu .dropdown-item {
+  color: $ink;
+}
+
+.navbar .dropdown-menu .dropdown-item:hover {
+  background-color: $light-bg;
+  color: $midnight;
+}
+
+.navbar .dropdown-toggle::after {
+  border-top-color: rgba(#fff, 0.6);
+}
+
+// ----- Page titles -----
+.quarto-title-block .quarto-title h1 {
+  color: $midnight;
+}
+
+.quarto-title-block .quarto-title-meta-heading {
+  color: $accent-mid;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+// ----- Table of contents -----
+#TOC a {
+  color: $ink;
+}
+
+#TOC .nav-link.active {
+  color: $midnight;
+  font-weight: 600;
+}
+
+#TOC a:hover {
+  color: $accent-mid;
+}
+
+// ----- Tables: subtle blue header + light-bg striping -----
+.table > :not(caption) > * > * {
+  background-color: transparent;
+}
+
+.table thead th {
+  background-color: $light-bg;
+  color: $midnight;
+  border-bottom: 2px solid $border;
+  font-size: 0.9rem;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  background-color: rgba($light-bg, 0.55);
+}
+
+.table a {
+  font-weight: 500;
+}
+
+// ----- Footer: deep navy -----
+.footer {
+  background-color: $sidebar-navy !important;
+  color: rgba(#fff, 0.6);
+}
+
+.footer a {
+  color: $accent;
+}
+
+// ----- Session / content cards (used by session + milestone pages) -----
+.session-card {
+  background-color: #fff;
+  border: 1px solid $border;
+  border-radius: 8px;
+  padding: 0.9rem 1.1rem;
+  margin-bottom: 0.9rem;
+}
+
+.session-card > :last-child {
+  margin-bottom: 0;
+}
+
+.session-card__label {
+  color: $accent-mid;
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.session-card h3 {
+  margin-top: 0.4rem;
+}
+
+// ----- Homepage course-details grid -----
+.home .course-details {
+  background-color: #fff;
+  border: 1px solid $border;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-top: 1rem;
+}
+
+.home .course-details h3 {
+  color: $midnight;
+}
+
+// ----- Inline "verb" badges (Learn / Reflect / Review) -----
+.verb-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 10px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: $accent-mid;
+  vertical-align: middle;
+}
+
+.verb-badge--reflect { background-color: $accent; }
+
+.verb-badge--review  { background-color: $midnight; }
+
+// ----- Headings inside content cards -----
+.session-card h2 {
+  font-size: 1.25rem;
+  color: $midnight;
+}

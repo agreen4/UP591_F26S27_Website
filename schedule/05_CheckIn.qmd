@@ -1,5 +1,5 @@
 ---
-title: "End of Semester Check-In"
+title: "End-of-Semester Studio + Feedback Launch"
 format: html
 toc: true
 editor: source
@@ -7,30 +7,34 @@ editor: source
 
 ## Session Overview
 
-As we conclude our work in UP 591 for the fall semester, we will provide a major update to each other on our capstone progress and deliverables. Our session will be spent sharing these updates with each other.
+As we conclude our work in UP 591 for the fall semester, we'll run a studio-style peer review of near-final portfolios and launch the first structured feedback exchange with your mentors.
+
+### When we Meet
+
+Studio-style peer review of near-final portfolios.
+
+### Reflect
+
+Launch of the December structured feedback exchange: your mentor provides preliminary developmental feedback (strengths, one growth area, one concrete step), and you complete a confidential evaluation of the match.
 
 ## Before we Meet
 
-Prepare a 4-slide presentation summarizing your professional identity. 
+Watch our (short) **December pre-session video**.
 
-**Slide 1:** Overview - describe your overall professional identity including 2 or 3 defining features of your approach to work and your vision for impact.
+Bring a near-final portfolio draft — the strongest version you have, with constituent pieces and statements organized in a logical fashion.
 
-**Slide 2:** Past Training and Experiences - describe the contributions of your past education, training, and work experiences to your professional identity.
-
-**Slide 3:** Present Work - share some of the highlights of the projects you're working on at present that are reflective of your professional identity.
-
-**Slide 4:** Future Career Goals and Objectives - describe your future career goals and vision for employment steps after you complete your MUP degree.
-
-## When we Meet
-
-Presentation order (to be determined).
+Submit your [Draft Portfolio](../milestones/04_portfolio.qmd).
 
 ## After we Meet
 
-Think about how you plan to tell the story of your evolution as a professional as part of your portfolio which is due in the spring.
+- Complete the December feedback exchange with your mentor (they provide preliminary developmental feedback; you complete the confidential mentor evaluation).
 
-Think critically about how you will complete your workshop, project, or thesis deliverables. If something you originally proposed is now no longer feasible, now is an important time to communicate this to your instructor, client, or advisor.
+- Think critically about how you will complete your workshop, project, or thesis deliverables next semester. If something you originally proposed is now no longer feasible, now is an important time to communicate this to your instructor, client, or advisor.
 
-For those of you pursuing the project or thesis options, please share a substantive capstone update with your project / thesis adviser before the end of the semester.
+- For those of you pursuing the project or thesis options, please share a substantive capstone update with your project / thesis adviser before the end of the semester.
+
+**Course milestone:** Draft Portfolio (Dec).
+
+**Mentoring milestone:** December structured feedback exchange + mentee evaluation.
 
 ## Additional Resources

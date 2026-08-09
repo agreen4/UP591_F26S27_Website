@@ -6,11 +6,13 @@ editor: source
 ---
 ## Session Overview
 
-Welcome to UP 591: Capstone Seminar!
+Welcome to UP 591: Capstone Seminar! This is the start of your capstone year — a managed professional-development arc that runs through next May. Twelve months from now you'll have a capstone, a portfolio, a job plan, and a network of professional relationships. This year's seminar is designed to hold that arc together.
+
+**This year, UP 591 includes a new mentoring component.** Every student will be matched with a MUP alumnus or planning practitioner as a mentor for the full academic year — six check-ins between August and May (the student initiates scheduling), two structured feedback exchanges (December and April), and an October mentor panel held over Zoom during our monthly seminar. Mentoring feedback is developmental, not graded.
 
 ### Learn
 
-We'll spend time reviewing the goals and expectation of the course as well as our course structure.
+We'll spend time reviewing the goals and expectations of the course as well as our course structure, including how the mentoring component works.
 
 ### Review
 
@@ -18,12 +20,24 @@ We will spend time in small groups workshopping the identifying statements you w
 
 ## Before we Meet
 
+- Watch our **August pre-session video** (the capstone year & professional development).
+
 - Update your Plan of Study ([Plan of Study template](../milestones/files/MUP Plan of Study Template 20240819.docx)) and bring an electronic version of your updated Plan of Study to class.
+
+- Bring a short professional bio and your résumé.
+
+- Draft a one-paragraph professional identity statement — *what kind of planner are you becoming?*
 
 - Bring a computer to class for our Plan of Study Peer Review session so you can add comments and feedback during our peer review session.
 
 ## After we Meet
 
+- Submit your intake materials (bio, résumé, professional identity statement, updated Plan of Study).
+
+- Complete the matching survey (Qualtrics link to follow) so we can pair you with a mentor in September.
+
 - Revise and submit your updated Plan of Study.
+
+**Mentoring milestone:** Intake — August materials collected for matching.
 
 ## Additional Resources
