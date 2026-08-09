@@ -1,0 +1,95 @@
+---
+title: "Capstone Exit Deliverables"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## What is the Capstone Exit Submission?
+
+The MUP capstone consists of a series of deliverables that provide MUP students with the opportunity to apply what they have learned through their courses and internships to a specific planning problem or issue, and therefore to demonstrate their professional competence to both the faculty, potential employers, and the public.
+
+The MUP Program requires that all students preparing to graduate produce three main deliverables in partial fulfillment of graduation capstone requirements:
+
+1.  A Signed Capstone Exit Form
+2.  The Final MUP Portfolio
+3.  The Final MUP Poster
+4.  The Capstone Manuscript (for project or thesis submissions)
+
+### Component Breakdown
+
+These deliverables help to summarize your time and knowledge acquired in the MUP program.
+
+-   **The Capstone Exit Form** records both information about your submissions as well as your permission for the library to publicly archive your capstone deliverables. The Exit Form also records your certification as well as needed departmental approvals that you have satisfactorily completed your capstone requirements. This form must be executed before you will receive credit for UP 591 which is required to graduate.
+
+-   **The MUP Portfolio** provides a holistic summary of your professional capacities and vision for practice.
+
+-   **The MUP Poster** summarizes one important work that reflects your professional identity.
+
+-   **The Capstone Manuscript** exemplifies your work as a planning practitioner (in the case of the Workshop or Project options) or planning researcher (in the case of the Thesis option). Students completing the workshop option are assessed on their contributions as part of the UP 510 class. Project and Thesis manuscripts are evaluated respectively by the faculty project adviser or thesis committee.
+
+As a department, we use these deliverables in three ways:
+
+1.  To **celebrate and record** your significant accomplishments during your time as a graduate student at Illinois.
+2.  To **assess your capacity** to apply key knowledge acquired as a Masters student to advanced practice.
+3.  To **assess your learning** in accordance with university and accreditation learning outcomes assessment requirements.
+
+## Component Descriptions
+
+### The Capstone Exit Form
+
+The [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf) is the main transmittal form for your final capstone products. 
+
+- For students pursuing the workshop option, you do not need any signatures on your exit form submission. The Director of Graduate Studies will review your exit materials and certify your form.
+
+- For students pursuing the Project option, your capstone exit form should include the signatures of your capstone client and your capstone faculty advisor.
+
+- For students pursuing the Thesis option, your capstone exit form should include the signature of your capstone faculty advisor.
+
+- Regardless of your capstone pathway, please indicate whether you give permission for your capstone materials (poster, portfolio, and project or thesis) to be published in the UIUC IDEALS archive.
+
+- After reviewing your final capstone materials uploaded to Box, the Director of Graduate Studies will email you the final executed exit form certifying that you have satisfactorily completed all capstone exit requirements for the Master of Urban Planning degree.
+
+### The MUP Portfolio
+
+The [MUP Portfolio](04_portfolio.qmd) is a holistic summary of your professional identity including polished examples that represent your practice as a planner. The professional portfolio should be designed to showcase your skills and tell a story of who you are as a professional planner. 
+
+### The MUP Poster
+
+The [MUP Poster](05_poster.qmd) is a place for you to summarize one significant work that represents your mastery of key urban planning skills. You may choose which work completed during the MUP program which you want to showcase on your poster. You will print and display your final poster at the Planning at Illinois capstone reception in May.
+
+## Resources
+
+- [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf)
+
+-   [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
+
+-   [UIUC IDEALS database](https://www.ideals.illinois.edu)
+
+-   [MUP Projects (1970 - 2018)](https://www.library.illinois.edu/cpla/theses/mpurp/)
+
+-   [MUP Theses (1959 - 2018)](https://www.library.illinois.edu/cpla/theses/mturp/)
+
+-   [Professor Greenlee's MUP Capstone Guidance](https://andrew-greenlee.com/resources/mup_capstone)
+
+## Submitting your Capstone Exit Materials
+
+At the beginning of finals week in May you will upload your capstone exit form (with signatures, for Project and Thesis pathways), final poster, final portfolio, and project or thesis manuscript (for Project / Thesis pathways). Please follow these naming conventions for your Box uploads:
+
+-   LastName_FirstName_ExitForm.pdf - capstone exit form
+
+-   LastName_FirstName_Poster.pdf - final poster
+
+-   LastName_FirstName_Portfolio.pdf - final portfolio
+
+-   LastName_FirstName_Project.pdf - your final project manuscript (for those completing the project pathway)
+
+-   LastName_FirstName_Thesis.pdf - your final thesis manuscript as deposited with the Graduate College (for those completing the thesis pathway)
+
+After you upload your Exit Materials, please email the Director of Graduate Studies who will review your materials, and given satisfactory completion of all exit requirements who will sign off on your Capstone Exit Form to certify your completion of all capstone requirements associated with the MUP degree.
+
+<iframe src="https://uofi.app.box.com/f/885313dcc1b24f35880d496cdcfaa0a1" height="900" width="800">
+
+</iframe>
+

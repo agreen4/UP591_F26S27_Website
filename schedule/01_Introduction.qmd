@@ -1,0 +1,29 @@
+---
+title: "Seminar Introduction"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+Welcome to UP 591: Capstone Seminar!
+
+### Learn
+
+We'll spend time reviewing the goals and expectation of the course as well as our course structure.
+
+### Review
+
+We will spend time in small groups workshopping the identifying statements you wrote in your updated draft Plan of Study.
+
+## Before we Meet
+
+- Update your Plan of Study ([Plan of Study template](../milestones/files/MUP Plan of Study Template 20240819.docx)) and bring an electronic version of your updated Plan of Study to class.
+
+- Bring a computer to class for our Plan of Study Peer Review session so you can add comments and feedback during our peer review session.
+
+## After we Meet
+
+- Revise and submit your updated Plan of Study.
+
+## Additional Resources

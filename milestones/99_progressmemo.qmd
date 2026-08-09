@@ -1,0 +1,69 @@
+---
+title: "Monthly Progress Memos"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Milestone Description
+
+As an accountability measure in UP 591, students pursuing the Project or Thesis options are expected to submit monthly progress updates.
+
+## Milestone Deliverable
+
+On a monthly basis, add an update to the following [capstone update template](files/Capstone Update Template 2024.docx).
+
+The template asks for updates on the following:
+
+1. **Goals from last month** - recap the goals you described in your last update.
+
+2. **Progress update** - provide an update on your progress towards each of the goals you described as well as any other progress, meetings, or significant actions taken since your last update.
+
+3. **Challenges and requests for assistance** - describe any anticipated or unanticipated challenges you are facing or requests for assistance you have either for the UP 591 instructor or for your capstone adviser. If there are particular resources or guidance you need to address these challenges, please list them.
+
+4. **Goals for next month** - describe the goals you are setting for the next month as well as related benchmarks for these goals.
+
+## Resources
+
+- [Capstone Update Template](files/Capstone Update Template 2024.docx)
+
+## Submission Instructions
+
+Upload your monthly progress memo as a single PDF document to Box using the below upload portal. Please note that there is a separate upload tab below for each month. Before you upload, save your file using the following naming convention -  LastName_FirstName_Month.pdf, where LastName is your surname (last name), FirstName is your first name, and Month is the year and month (e.g. 202409 would be September 2024).
+
+:::{.panel-tabset}
+
+## September
+
+<iframe src="https://uofi.app.box.com/f/5c6562656842429484f4e4181b424689" height="900" width="800"></iframe>
+
+## October
+
+<iframe src="https://uofi.app.box.com/f/b5045fd8b9d04c4ba445cc8216b93e5b" height="900" width="800"></iframe>
+
+## November
+
+<iframe src="https://uofi.app.box.com/f/6b83b0260e874725977e3ecf7b1b36b7" height="900" width="800"></iframe>
+
+## December
+
+<iframe src="https://uofi.app.box.com/f/8ace90a2cfe64f9db09fcbab713bd821" height="900" width="800"></iframe>
+
+## January
+
+<iframe src="https://uofi.app.box.com/f/355cb5fd3c0e4329bd82fffc7c74a030" height="900" width="800"></iframe>
+
+## February
+
+<iframe src="https://uofi.app.box.com/f/e4d6099c7f204ac6b435895ab9aba8cc" height="900" width="800"></iframe>
+
+## March
+
+<iframe src="https://uofi.app.box.com/f/0d04740168a84b03954957526ad66101" height="900" width="800"></iframe>
+
+## April
+
+<iframe src="https://uofi.app.box.com/f/8e28b628f7f74cb993d1da10e58b4297" height="900" width="800"></iframe>
+
+:::

@@ -1,0 +1,37 @@
+---
+title: "Developing a Job Search Strategy"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+Now that you are in the final semester of the MUP program, it's time to start thinking about your job search goals and strategy. While each of you have different needs and considerations to account for in your job searches, there's a range of strategies for tapping into your professional networks, responding to job ads, and creating visibility for your work that we'll review. We'll then work together to articulate individual strategies based upon your needs and goals.
+
+## Before we Meet
+
+Watch our February pre-session video:
+
+<div style="max-width:720px"><div style="position:relative;padding-bottom:60.972222222222%"><iframe id="kmsembed-1_ahrubmno" width="720" height="439" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_ahrubmno/uiConfId/55779922/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UP 591 - Developing a Job Search Strategy" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+Come prepared to share your analysis of a job position (prompts outlined in the video).
+
+## After we Meet
+
+## Additional Resources
+
+- [UIUC Career Center](https://careercenter.illinois.edu)
+- [FAA Career Center](https://faa.illinois.edu/student-resources/career-services/student-path/explore-career-resources/)
+- [UIUC Handshake](https://handshake.illinois.edu)
+- [APA Career Center](https://www.planning.org/careercenter/)
+- [APA Salary Survey](https://www.planning.org/salary/)
+- [International Planners: Tips on Finding a Job in the US](https://www.planning.org/blog/9180099/international-planners-tips-on-finding-job-in-us/)
+- Webinar: [2026 APA Trend Report](https://planning.zoom.us/webinar/register/7617688725323/WN_Chh5vXUMTX6eI44z2opTwA#/registration) - January 28, 2026 (Recommended)
+
+### Job Listings
+
+- [DURP Jobs Listserv](https://lists.illinois.edu/lists/arc/durp-jobs)
+- [APA Job Board](https://www.planning.org/jobs/search/)
+- [APA-IL Job Board](https://www.ilapa.org/aws/APAIL/pt/sp/job-postings)
+- [Idealist](https://www.idealist.org/en/jobs)
+- [Planetizen Job Board](https://www.planetizen.com/jobs)

@@ -1,0 +1,26 @@
+---
+title: "Semester 2 Check-In"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+Welcome back from winter break! In this session, we'll review the expectations and requirements for your end of semester deliverables, and will talk more about implementing your professional development and job search plans this spring.
+
+## Before we Meet
+
+Watch our January pre-session video:
+
+<div style="max-width:720px"><div style="position:relative;padding-bottom:60.972222222222%"><iframe id="kmsembed-1_np2iremd" width="720" height="439" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_np2iremd/uiConfId/55779922/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="UP 591 Spring 2026 January" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div></div>
+
+
+Come prepared to share, and bring any questions you have about spring semester milestones, capstone deliverables, and professional development.
+
+## After we Meet
+
+Accomplish your January goal.
+
+## Additional Resources
+
+![](Screenshot 2026-01-26 at 11.36.39 AM.png)

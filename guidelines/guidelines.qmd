@@ -1,0 +1,7 @@
+# Capstone Proposal Guidelines
+
+| Capstone Pathway | Description |
+|-----------------------------|-------------------------------------------|
+| [Workshop](workshop.qmd) | Exposure to professional planning practice by completing two plan making workshops. The audience for the projects completed in these workshops is typically planning and policy practitioners and decision makers. Faculty workshop leaders work in partnership with an institution, organization, or community partner to determine the scope and deliverables from the workshop in advance. Typical workshop deliverables may be a report, a plan, or other professional quality work. |
+| [Project](project.qmd) | A professional project or analysis focusing on a topic relevant to the student’s selected concentration and career goals. The audience for a master’s project is typically planning and policy practitioners and decisionmakers. The capstone deliverable may be a report, a plan, or other professional quality work. The project is conducted for or with an external client. |
+| [Thesis](thesis.qmd) | A scholarly applied or basic research work conducted under the formal Thesis Guidelines of the Department and Graduate College. The audience for a master’s thesis is typically academic and applied researchers. The thesis option is most appropriate for MUP students with a strong interest in pursuing a research-oriented career or PhD degree. |

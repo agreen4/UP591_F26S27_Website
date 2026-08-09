@@ -1,0 +1,43 @@
+---
+title: "Schedule"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+Our monthly seminar sessions are 50 minutes in length.
+
+On the sidebar, you will find a week-by-week description of each seminar session and any related deliverables.
+
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| **Date**   | **Description**                                                      | **Activities**                                                                           |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 8/29/ 2025 | [Seminar Introduction](01_Introduction.qmd)                          | -   **Learn:** Course introduction and structure                                         |
+|            |                                                                      |                                                                                          |
+|            |                                                                      | -   **Review:** Plan of Study Peer Review                                                |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 9/19/2025  | [Introduction to FAA Career Services](02_DevelopmentPlan.qmd)        | -   **Learn:** Conversation with Ana Rodas, FAA Career Services                          |
+|            |                                                                      |                                                                                          |
+|            |                                                                      | -   **Reflect:** Building a Professional Network                                         |
+|            |                                                                      |                                                                                          |
+|            |                                                                      | -   **Review:** Jobs and Qualifications                                                  |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 10/31/2025 | [Developing a Professional Portfolio](03_Portfolio1.qmd) - Session 1 | -   **Learn:** Portfolio Structure and Goals                                             |
+|            |                                                                      |                                                                                          |
+|            |                                                                      | -   **Reflect:** Key Document Review                                                     |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 11/14/2025 | [Developing a Professional Portfolio](04_Portfolio2.qmd) - Session 2 | -   **Reflect:** Portfolio Peer Review                                                   |
+|            |                                                                      |                                                                                          |
+|            |                                                                      | -   **Review:** Portfolio Goal Setting                                                   |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 12/5/2025  | [End of Semester Check-In](05_CheckIn.qmd)                           | -   **Review:** End of Semester Presentations                                            |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 1/23/2026  | [Semester 2 Check-In](06_CheckIn.qmd)                                | -   **Reflect:** Reflect upon your progress since December and set goals for the spring. |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 2/20/2026  | [Developing a Job Search Strategy](07_JobSearch.qmd)                 | -   **Learn:** Considerations for developing a job search strategy.                      |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 3/27/2026  | [Claiming Your Professional Identity](08_Identity.qmd)               | -   **Reflect:** Articulate and update your professional identity                        |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+
+| 4/24/2026  | [Capstone Draft Poster Markup](09_Poster.qmd)                        | -   **Review:** Peer review of draft posters                                             |
++------------+----------------------------------------------------------------------+------------------------------------------------------------------------------------------+

@@ -1,0 +1,47 @@
+---
+title: "Portfolio"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Milestone Description
+
+The MUP Portfolio is a holistic summary of your professional identity including polished examples that represent your practice as a planner. The professional portfolio should be designed to showcase your skills and tell a story of who you are as a professional planner. Your portfolio should be a showpiece that you can use in job seeking and networking.
+
+## Milestone Deliverable
+
+Develop a portfolio built around your identity as an urban planning professional. Include examples that you can tell stories about during a job interview. Use the portfolio to communicate your design sense.
+
+Your portfolio should include the following elements:
+
+**Professional History and Goals** - Include a narrative description of your professional history which describes your professional goals and trajectory as well as your values as a professional. Include in your narrative statement a description of your professional goals for the five-year period after you complete your degree.
+
+**Resume / CV** - Include an up to date version of your resume or curriculum vitae. 
+
+**Statement of Impact** - Include a narrative statement describing your vision for the type of impact which you aspire to have in your area or field of work.
+
+**Statement of Leadership** - Include a narrative statement describing your vision for leadership in your area or field of work.
+
+**Work Samples** - Include work samples that best illustrate your professional trajectory and capabilities. Include work samples from your core courses, electives, internship (if applicable and you have permission), capstone, and any other contexts that are relevant.
+
+You may choose the format for your portfolio - this could be a document intended for print, a website, or could take another format of your choice. You will need to provide a durable record which the department can evaluate as part of your exit materials. We also expect that this portfolio will be an important resource as you pursue your career steps following graduation.
+
+## Resources
+
+[Portfolio Design](files/Portfolio Design FSL.pdf) - [Francesca Lawrence, AICP](https://www.linkedin.com/in/francesca-sallinger-lawrence/)
+
+[Making Portfolios](files/Making Portfolios Eric van Buskirk.pdf) - [Eric van Buskirk, AICP](https://www.linkedin.com/in/eric-van-buskirk-aicp-62baa6301/)
+
+[The Planning Portfolio](https://www.planetizen.com/node/36302) - Planetizen
+
+[Building an Urban Planning Portfolio in 10 Minutes](https://medium.com/coburb/building-an-urban-planning-portfolio-in-10-minutes-with-airtable-and-pory-fe8f4f37ca23) - Jayne Vidheecharoen
+
+## Submission Instructions
+
+Upload your draft portfolio as a single PDF document to Box using the below upload portals. Before you upload, save your file using the following naming convention -  LastName_FirstName_POS.pdf, where LastName is your surname (last name) and FirstName is your first name.
+
+<iframe src="https://uofi.app.box.com/f/a1f2b2fac2e7498ca34b2cf5f7bc552e" height="900" width="800"></iframe>
+
+Your final portfolio will be submitted separately as part of your final capstone exit submission.

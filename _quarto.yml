@@ -1,0 +1,45 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+  
+website:
+  title: "UP 591: Capstone Seminar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - text: Capstone Seminar
+        menu:
+        - href: syllabus/syllabus.qmd
+          text: "Seminar Syllabus"
+        - href: schedule/schedule.qmd
+          text: "Seminar Schedule"
+        - href: milestones/milestones.qmd
+          text: "Milestones and Assignments"
+      - text: Capstone Guidelines
+        menu:
+        - href: timeline/timeline.qmd
+          text: "Capstone Timeline"
+        - href: guidelines/guidelines.qmd
+          text: "Guidelines"
+    search: true
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
+
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+      dark: darkly
+    css: 
+      - styles.css
+    toc: true
+
+editor: source
+

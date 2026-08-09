@@ -1,0 +1,31 @@
+---
+title: "Developing a Professional Portfolio - Session 1"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+One of your graduation requirements is to develop a professional portfolio. We will use UP 591 as a venue to develop and workshop how you will present yourself and your vision for **professional practice**. While your final draft portfolio isn't due until the spring semester, we need to get started on outlining your document and developing the narrative statements which are major markerposts for the description of your professional identity.
+
+This session will be the first opportunity to start planning and defining how you will represent yourself and your professional practice to the department and to the broader community of planning practice.
+
+### Learn
+
+We will begin our class by reviewing the overall structure of a portfolio and its broader goals. This will draw upon the portfolio description in the MUP handbook as well as the portfolio milestone description which is part of this class.
+
+### Reflect
+
+We will next start thinking about key documents and forms of evidence that you will incorporate in your portfolio. These may include examples that come from your coursework, internships, capstone, and other forms of engagement you have undertaken that help define and provide evidence for your identity as a planning professional.
+
+## Before we Meet
+
+- Review the [portfolio requirements](../milestones/04_portfolio.qmd) outlined in the Portfolio Milestone description.
+
+- Identify 2-3 key documents which you may want to include or in some way highlight in your portfolio. Bring digital copies of those documents to class.
+
+- Bring a digital copy of your updated Plan of Study document. You may want to review your updated narrative statements about your professional identity before we meet.
+
+## After we Meet
+
+## Additional Resources

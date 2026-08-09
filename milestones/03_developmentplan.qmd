@@ -1,0 +1,35 @@
+---
+title: "Professional Development Plan"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Milestone Description
+
+UP 591 is designed not only to help provide structure and support while you work on your MUP capstone, the seminar is also an important resource for your professional development and preparation for your next steps after you matriculate from the MUP program.
+
+We ask that you articulate a professional development plan that lays out your career goals, actions you plan to take during the remainder of your time in the MUP program, and actions you plan to take in the year after you matriculate from the program.
+
+## Milestone Deliverable
+
+1. **Self assessment** - reflect on your professional knowledge, skills, and overall trajectory. How does where you're currently at relate to where you see yourself in the next five to ten years? 
+
+2. **Statement of personal and professional goals** - articulate a minimum of four personal and professional goals in service of the vision you described in your self assessment. Make sure that the goals you articulate are **specific**, **measurable**, **achievable**, **relevant**, and **time-bound**. This means you will have to provide sufficient details for each goal to make them useful in this plan.
+
+3. **Skills and abilities** - describe the skills and abilities you have or will need to develop in order to accomplish your ten-year vision. In your description, be specific about how particular skills and abilities will contribute to your professional development.
+
+4. **Resources identified / needed** - identify resources for professional development that will help you and provide your own assessment of resources needed to achieve your goals. Resources could include specific skills and training, mentoring, professional networks, or services.
+
+5. **Key actions, timeline, and progress steps** - describe key actions you plan to take with details on their timing and ways in which you will track your progress. Divide this section into actions you plan to take during your time at Illinois and actions you plan to take after you matriculate.
+
+There is no prescribed length for the professional development plan. The details you choose to add are an investment made by yourself for yourself. Details will also help department faculty and staff serve more effectively as a resource to you, however, it is up to you to ensure that this plan is a usable one.
+
+## Resources
+
+## Submission Instructions
+
+Upload your Professional Development Plan as a single PDF document to the Box using the below upload portal. Before you upload, save your file using the following naming convention -  LastName_FirstName_PDP.pdf, where LastName is your surname (last name) and FirstName is your first name.
+
+<iframe src="https://uofi.app.box.com/f/75e822b0d9dc47eab8520e3b4a1f6d6c" height="900" width="800"></iframe>

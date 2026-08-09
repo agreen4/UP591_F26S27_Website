@@ -1,0 +1,25 @@
+project: 
+  type: book
+
+book: 
+  title: "MUP Capstone Manual"
+  reader-mode: true
+  
+  page-footer:
+    left: | 
+      Rest
+  
+  chapters:
+    - index.qmd
+    - workshop.qmd
+    - project.qmd
+    - thesis.qmd
+    
+  
+format:
+  html:
+    theme:
+      - cosmo
+      - format.scss
+      
+    code-link: true

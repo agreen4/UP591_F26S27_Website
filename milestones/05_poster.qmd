@@ -1,0 +1,117 @@
+---
+title: "The MUP Poster"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+### The MUP Poster
+
+The MUP Poster is a place for you to summarize one significant work that represents your mastery of key urban planning skills. You may choose which work completed during the MUP program which you want to showcase on your poster. For those students pursuing the Project or Thesis capstone pathways, you may choose to design a poster based upon your capstone deliverable, however, this is not required. Likewise, students who complete the workshop pathway may design a poster based upon their contributions to the overall workshop deliverable, however, the poster should focus on distinct individual contributions rather than on the overall workshop outputs. Individuals who completed a group project have the option of designing companion posters with one printed poster per group member.
+
+You will receive feedback on your draft poster during a poster markup event in April. You will print and display your final poster at the Planning at Illinois graduating studen reception and awards ceremony in May.
+
+#### Poster Requirements
+
+Your poster should be a polished and visually engaging summary of a key piece of work you completed as part of your MUP degree. All posters must meet the following requirements:
+
+- The printed poster should be 24" x 36" (portrait or landscape orientation).
+- Your Name - Master of Urban Planning
+- Department of Urban + Regional Planning
+- University of Illinois at Urbana-Champaign
+- The semester in which you are graduating (e.g. Spring 2025)
+
+#### Poster Formatting Tips and Resources
+
+##### 1. Emphasize results, findings, and key takeaways
+
+- Your audience should quickly understand your story
+- Literature, history, and sources should be minimal
+- Illustrate methods visually using process diagrams or flow charts instead of long narrative descriptions
+
+##### 2. Show, don't tell
+
+- The key is effective visual communication, not lengthy explanations
+- Visuals (maps, charts, diagrams, images) should be approximately 3/4 of your poster with the remaining 1/4 text
+- Visuals should be informative and self-explanatory, complementing each other to tell a compelling story. 
+- Clear captions, annotations, and consistent labeling can help maintain focus on your story.
+- Convert tables into charts and diagrams - visuals are faster to process and interpret.
+
+##### 3. Follow basic rules of graphic design
+
+- Design with consistency: use grids, maintain alignment, and avoid crowding
+- Develop a visual hierarchy to establish priorities for your audience. Image size can help to reinforce this hierarchy with smaller visuals supporting secondary details.
+  + Use colors judiciously and purposefully
+  + You are not limited to a white background   + subtle textures, gradients, and muted images can add sophistication but should not overwhelm content.
+  + Consider color conventions (e.g., red = caution / danger / important; green = go / environment / good; blue = water / calm); if you include a plan map remember to use land use color conventions.
+  + Online design tools can help you find ideal color combinations
+  + Limiting yourself to no more than 3-4 main colors generally makes it easier to create a cohesive and impactful visual that projects a professional and polished look.
+
+- Use text sparingly
+  + Establish a clear text hierarchy: main points (headlines), subheads, short supporting blurbs (captions, labels, annotations).
+  + Use bullets and sentence fragments rather than paragraphs.
+  + Limit wrapped text and long text blocks.
+
+- Understand typeface selection and choose fonts with care
+  + Title: Approximately 100 pt
+  + Heading: 60-70 pt
+  + Body test: 36-40 pt
+  + Captions: 18-20 pt
+
+- Limit yourself to 2-3 fonts for visual consistency
+  + One font for titles and headings
+  + One font for body text
+  + One font (optional) for captions or annotations
+
+- Use sans serif fonts for headlines (more modern and legible at large sizes)
+
+- Use serif fonts for body text, especially at smaller sizes for readability
+
+- If using a colored background, choose high-contrast fonts (medium or bold weights work best)
+
+- Embrace white space to frame your content and improve readability. This includes negative space around all text and visual elements.
+
+##### 4. Create clear visual flow and navigation
+
+- Use color, font size, and positioning to guide the reader through your content in the intended order
+- Two effective layout strategies:
+  + Column Layout (newspaper style) - 2-3 vertical columns read left to right and top to bottom
+  + Central Focus (billboard style) - One bold central message with supporting visuals around it
+- Directional cues (arrows, numbering,subtle design elements) can help lead the eye
+
+#### Poster Printing in TBH Room 21
+
+There are specific step-by-step instructions posted in the lab. Below are some additional general tips:
+
+- The lab is staffed from 9am-9pm, M-TH, 9am-5pm F, and weekends from 12-5pm. Student lab staff are there to help you.
+
+- To print posters, you will have to log onto a computer in the lab (there are 6 computers).
+
+- Recommended Poster Size is 24 x 36
+
+**Printer Options:**
+
+- **Printer XL4100:** This is ideal for your dra􀅌 poster. It is cheaper to print and the paper is thinner.
+
+- **Printer DJZ9-2:** This is a higher quality printer (matte) that may be better for your final poster. It does cost more to print.
+
+- **Printer Z6200-2:** This is also higher quality (semi-gloss) that may be better for your final poster. Also costs more than XL4100.
+
+Costs come directly out of your student account.
+
+**Note:** The lab is likely to be busy, especially towards the end of the semester. To avoid having to wait in a line or risk not being able to print your poster on time, please have a plan to print early.
+
+::: callout-tip
+You can find examples of prior MUP posters through [UIUC IDEALS](https://www.ideals.illinois.edu/collections/1318)
+:::
+
+## Submission Instructions
+
+Upload your draft poster as a single PDF document to Box using the below upload portal. Before you upload, save your file using the following naming convention -  LastName_FirstName_DraftPoster.pdf, where LastName is your surname (last name) and FirstName is your first name.
+
+<iframe src="https://uofi.app.box.com/f/6a91e4e69e8f4e2f976cbfc3801b667c" height="900" width="800">
+
+</iframe>
+
+Your final poster will be submitted as part of your capstone exit submission.

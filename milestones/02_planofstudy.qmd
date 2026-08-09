@@ -1,0 +1,27 @@
+---
+title: "Plan of Study"
+format: html
+toc: true
+sidebar: true
+editor: source
+---
+
+## Milestone Description
+
+At the MUP Program Orientation last August, we asked you to produce an initial version of your Plan of Study. Now, we ask for you to provide an update to your Plan of Study to reflect your updated personal and professional trajectory, courses, and goals.
+
+## Milestone Deliverable
+
+Using the provided [Plan of Study template](files/MUP Plan of Study Template 20240819.docx), develop an updated Plan of Study. 
+
+## Resources
+
+- [Plan of Study Template](files/MUP Plan of Study Template 20240819.docx)
+
+- [Projected 3-Year Course Availability](files/DURP 3 Year Schedule_20250813.pdf)
+
+## Submission Instructions
+
+Upload your Plan of Study as a single PDF document to the Box using the below upload portal. Before you upload, save your file using the following naming convention -  LastName_FirstName_POS.pdf, where LastName is your surname (last name) and FirstName is your first name.
+
+<iframe src="https://uofi.app.box.com/f/75107c6e38e14e3880d602ed6609ffeb" height="900" width="800"></iframe>

@@ -1,0 +1,32 @@
+---
+title: "UP 591: Capstone Seminar"
+format: html
+toc: false
+sidebar: false
+editor: source
+---
+
+Welcome to the UP 591: Capstone Seminar website for the 2025-2026 Academic Year.
+
+::: home
+::: {.grid .course-details}
+::: {.g-col-8 .g-col-sm-8 .g-col-md-8}
+### Instructor
+
+-   {{< fa user >}}   [{{< var instructor.name >}}](%7B%7B%3C%20var%20instructor.url%20%3E%7D%7D)
+-   {{< fa university >}}   {{< var instructor.office >}}
+-   {{< fa envelope >}}   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
+-   {{< fa brands github >}}   [Github](%7B%7B%3C%20var%20instructor.github%20%3E%7D%7D)
+-   {{< fa brands mastodon >}}   [{{< var instructor.mastodon >}}](%7B%7B%3C%20var%20instructor.mastodon%20%3E%7D%7D)
+-   {{< fa calendar-check >}}   [Schedule an appointment](%7B%7B%3C%20var%20instructor.calendly_url%20%3E%7D%7D)
+:::
+
+::: {.g-col-4 .g-col-sm-4 .g-col-md-4}
+### Course details
+
+-   {{< fa calendar >}}   {{< var course.days >}}
+-   {{< fa clock >}}   {{< var course.time >}}
+-   {{< fa location-dot >}}   {{< var course.location >}}
+:::
+:::
+:::
