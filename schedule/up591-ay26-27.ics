@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//The System//UP 591 AY 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UP 591 Capstone Seminar (AY 2026-27)
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:up591-2026-08-28@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20260828T120000
+DTEND;TZID=America/Chicago:20260828T125000
+SUMMARY:UP 591: Seminar Introduction
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Course introduction and structure\; mentoring pilot overview\; 
+ Plan of Study peer review.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2026-09-25@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20260925T120000
+DTEND;TZID=America/Chicago:20260925T125000
+SUMMARY:UP 591: FAA Career Services & Building a Professional Network
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Conversation with Ana Rodas (FAA Career Services)\; network-bui
+ lding exercise\; mentor matches announced.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2026-10-30@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20261030T120000
+DTEND;TZID=America/Chicago:20261030T125000
+SUMMARY:UP 591: Mentor Panel (Zoom)
+LOCATION:Online (Zoom)
+DESCRIPTION:Panel discussion with mentor-practitioners on building a profes
+ sional identity and practice.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2026-11-20@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20261120T120000
+DTEND;TZID=America/Chicago:20261120T125000
+SUMMARY:UP 591: Portfolio Development
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Portfolio structure and goals\; key document review.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2026-12-04@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20261204T120000
+DTEND;TZID=America/Chicago:20261204T125000
+SUMMARY:UP 591: End-of-Semester Studio + Feedback Launch
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Studio peer review of near-final portfolios\; December structur
+ ed feedback exchange with your mentor.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2027-01-22@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20270122T120000
+DTEND;TZID=America/Chicago:20270122T125000
+SUMMARY:UP 591: Semester 2 Check-In
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Review expectations for end-of-semester deliverables\; implemen
+ ting your professional development and job search plans.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2027-02-26@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20270226T120000
+DTEND;TZID=America/Chicago:20270226T125000
+SUMMARY:UP 591: Developing a Job Search Strategy
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Considerations for developing a job search strategy\; transitio
+ n planning conversation with your mentor.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2027-03-26@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20270326T120000
+DTEND;TZID=America/Chicago:20270326T125000
+SUMMARY:UP 591: Professional Identity & Capstone Communication
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Articulate and update your professional identity\; translating 
+ your capstone work for audiences.
+END:VEVENT
+BEGIN:VEVENT
+UID:up591-2027-04-23@andrew-greenlee.com
+DTSTAMP:20260809T221823Z
+DTSTART;TZID=America/Chicago:20270423T120000
+DTEND;TZID=America/Chicago:20270423T125000
+SUMMARY:UP 591: Poster Review + Exit Prep
+LOCATION:Temple Buell Hall 225
+DESCRIPTION:Peer review of draft posters\; April final structured feedback 
+ exchange with your mentor.
+END:VEVENT
+END:VCALENDAR

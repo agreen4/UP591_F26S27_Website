@@ -1,2 +1,9 @@
 [[plugins]]
 package = "@quarto/netlify-plugin-quarto"
+
+# Serve the calendar feed with the correct content type so calendar apps
+# can subscribe (webcal) rather than only download the file.
+[[headers]]
+for = "/*.ics"
+[headers.values]
+Content-Type = "text/calendar; charset=utf-8"

@@ -38,10 +38,23 @@ $table-striped-bg: $light-bg;
   color: #fff;
 }
 
+.navbar .nav-link {
+  // Subtle animated active indicator + gentle hover tint.
+  border-bottom: 2px solid transparent;
+  border-radius: 4px 4px 0 0;
+  transition: color 0.15s ease, background-color 0.15s ease,
+              border-color 0.15s ease, padding 0.15s ease;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  background-color: rgba(#fff, 0.06);
+}
+
 .navbar .nav-link.active {
   color: #fff;
   font-weight: 600;
-  border-bottom: 2px solid $accent;
+  border-bottom-color: $accent;
 }
 
 // Dropdown menus so they stay legible on the dark bar
@@ -53,11 +66,19 @@ $table-striped-bg: $light-bg;
 
 .navbar .dropdown-menu .dropdown-item {
   color: $ink;
+  transition: background-color 0.15s ease, color 0.15s ease;
 }
 
-.navbar .dropdown-menu .dropdown-item:hover {
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus {
   background-color: $light-bg;
   color: $midnight;
+}
+
+.navbar .dropdown-menu .dropdown-item.active {
+  background-color: $light-bg;
+  color: $midnight;
+  font-weight: 600;
 }
 
 .navbar .dropdown-toggle::after {
@@ -157,6 +178,59 @@ $table-striped-bg: $light-bg;
 
 .home .course-details h3 {
   color: $midnight;
+}
+
+// ----- Homepage hero banner (integrated graphic) -----
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+  padding: 1.5rem 1.75rem;
+  border-radius: 12px;
+  color: #fff;
+  background: linear-gradient(120deg, $midnight 0%, #24406e 55%, $accent-mid 130%);
+}
+
+.hero__body {
+  flex: 1 1 auto;
+}
+
+.hero__eyebrow {
+  margin: 0 0 0.5rem;
+  color: $accent;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.hero__lede {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: rgba(#fff, 0.92);
+}
+
+.hero__art {
+  flex: 0 0 auto;
+  width: 150px;
+  height: auto;
+  align-self: center;
+}
+
+@media (max-width: 576px) {
+  .hero {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero__art {
+    width: 100%;
+    max-width: 220px;
+    margin: 0 auto;
+  }
 }
 
 // ----- Inline "verb" badges (Learn / Reflect / Review) -----
