@@ -6,23 +6,12 @@ sidebar: false
 editor: source
 ---
 
-Welcome to the UP 591: Capstone Seminar website for the 2026-2027 Academic Year.
-
-**This year, UP 591 includes a new mentoring component.** Every second-year student will be matched with a MUP alumnus or planning practitioner as a mentor for the full academic year — six check-ins between August and May, two structured feedback exchanges (December and April), and an October mentor panel held over Zoom during our monthly seminar. Details and the matching survey link will be posted in August.
+Welcome to the UP 591: Professional Development Seminar website for the 2026-2027 Academic Year.
 
 ::: {.hero}
 ::: {.hero__body}
 <p class="hero__eyebrow">UP 591 · AY 2026–27</p>
-<p class="hero__lede">A managed professional-development arc — capstone, portfolio, job plan, and a professional network — anchored by a new year-long mentoring component.</p>
-:::
-
-<svg class="hero__art" viewBox="0 0 140 84" role="img" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
-  <line x1="8" y1="68" x2="132" y2="68" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
-  <rect x="12" y="52" width="22" height="16" rx="4" fill="#e8f0fb"/>
-  <rect x="44" y="36" width="22" height="32" rx="4" fill="#4a9eda"/>
-  <rect x="76" y="20" width="22" height="48" rx="4" fill="#9cc4ec"/>
-  <rect x="108" y="8" width="22" height="60" rx="4" fill="#ffffff"/>
-</svg>
+<p class="hero__lede">The Professional Development Seminar is a platform to facilitate the transition from planning school to practice. The seminar supports students in advancing their professional goals and trajectories and to build a thriving and successful community of practitioners.</p>
 :::
 
 ::: home
@@ -34,7 +23,6 @@ Welcome to the UP 591: Capstone Seminar website for the 2026-2027 Academic Year.
 -   {{< fa university >}}   {{< var instructor.office >}}
 -   {{< fa envelope >}}   <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
 -   {{< fa brands github >}}   [Github]({{< var instructor.github >}})
--   {{< fa brands mastodon >}}   [{{< var instructor.mastodon >}}]({{< var instructor.mastodon >}})
 -   {{< fa calendar-check >}}   [Schedule an appointment]({{< var instructor.calendly_url >}})
 :::
 

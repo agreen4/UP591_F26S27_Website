@@ -6,21 +6,19 @@ editor: source
 ---
 ## Session Overview
 
-Welcome to UP 591: Capstone Seminar! This is the start of your capstone year — a managed professional-development arc that runs through next May. Twelve months from now you'll have a capstone, a portfolio, a job plan, and a network of professional relationships. This year's seminar is designed to hold that arc together.
-
-**This year, UP 591 includes a new mentoring component.** Every student will be matched with a MUP alumnus or planning practitioner as a mentor for the full academic year — six check-ins between August and May (the student initiates scheduling), two structured feedback exchanges (December and April), and an October mentor panel held over Zoom during our monthly seminar. Mentoring feedback is developmental, not graded.
+Welcome to UP 591: Capstone Seminar! This is the start of your final two semesters in the MUP program - by May you'll have completed a capstone, a portfolio, a job plan, and will have built a network of professional relationships. This year's seminar is designed to give structure to those professional development activities and program milestones.
 
 ### Learn
 
-We'll spend time reviewing the goals and expectations of the course as well as our course structure, including how the mentoring component works.
+We'll spend time reviewing the goals and expectations of the course as well as our course structure, including the mentoring component.
 
 ### Review
 
-We will spend time in small groups workshopping the identifying statements you wrote in your updated draft Plan of Study.
+We will spend time in small groups workshopping and sharing the identifying statements you wrote in your updated draft Plan of Study.
 
 ## Before we Meet
 
-- Watch our **August pre-session video** (the capstone year & professional development).
+- Watch our **August pre-session video** that provides an overview of the capstone year and professional development goals.
 
 - Update your Plan of Study ([Plan of Study template](../milestones/files/MUP Plan of Study Template 20240819.docx)) and bring an electronic version of your updated Plan of Study to class.
 
@@ -34,7 +32,7 @@ We will spend time in small groups workshopping the identifying statements you w
 
 - Submit your intake materials (bio, résumé, professional identity statement, updated Plan of Study).
 
-- Complete the matching survey (Qualtrics link to follow) so we can pair you with a mentor in September.
+- Complete the mentor matching survey so we can pair you with a mentor in September.
 
 - Revise and submit your updated Plan of Study.
 

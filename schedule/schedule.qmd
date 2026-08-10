@@ -6,27 +6,25 @@ sidebar: true
 editor: source
 ---
 
-Our monthly seminar sessions are 50 minutes in length.
+Our monthly seminar sessions are 50 minutes in length. All sessions meet {{< var course.time >}} in {{< var course.location >}} unless noted — the October mentor panel is held on Zoom.
 
 ::: {.session-card .calendar-actions}
-**Add the seminar to your calendar:** download the [UP 591 AY 2026–27 calendar (.ics)](up591-ay26-27.ics) and open it to import the sessions.
+**Add the seminar to your calendar:** download the [UP 591 calendar (.ics)](up591-ay26-27.ics) and open it to import the sessions to your calendar.
 
-Once the site is live, you can also **subscribe** so it stays up to date: in Google Calendar choose **Settings → Add calendar → From URL** (or in Apple Calendar **File → New Calendar Subscription**) and paste the link to `up591-ay26-27.ics` on the deployed site.
+You can also **subscribe** so your calendar stays up to date: in Google Calendar choose **Settings → Add calendar → From URL** (or in Apple Calendar **File → New Calendar Subscription**) and paste the link to `up591-ay26-27.ics`.
 :::
-
-All sessions meet **{{< var course.time >}}** in **{{< var course.location >}}** unless noted — the October mentor panel is held on Zoom.
 
 On the sidebar, you will find a description of each seminar session and any related deliverables.
 
 | **Date** | **Description** | **Activities** |
-|---|---|---|
+|------------------------|------------------------|------------------------|
 | **Aug 28, 2026** | [Seminar Introduction](01_Introduction.qmd) | **Learn:** Course introduction and structure, mentoring pilot overview · **Review:** Plan of Study Peer Review |
 | **Sep 25, 2026** | [FAA Career Services & Building a Professional Network](02_CareerServices.qmd) | **Learn:** Conversation with Ana Rodas, FAA Career Services · **Reflect:** Building a Professional Network · **Review:** Jobs and Qualifications |
-| **Oct 30, 2026** | [Mentor Panel: Building a Professional Identity & Practice](03_MentorPanel.qmd) *(Zoom)* | **Learn:** Panel discussion with mentor-practitioners · **Reflect:** The trade-offs panelists have made across their careers |
+| **Oct 30, 2026** | [Mentor Panel: Building a Professional Identity & Practice](03_MentorPanel.qmd) *(Zoom)* | **Learn:** Panel discussion with mentors · **Reflect:** Questions for the panel |
 | **Nov 20, 2026** | [Portfolio Development](04_Portfolio.qmd) | **Learn:** Portfolio structure and goals · **Reflect:** Key Document Review |
-| **Dec 4, 2026** | [End-of-Semester Studio + Feedback Launch](05_CheckIn.qmd) | **Review:** Studio peer review of near-final portfolios · **Reflect:** December structured feedback exchange with mentor |
+| **Dec 4, 2026** | [End-of-Semester Studio + Feedback Launch](05_CheckIn.qmd) | **Review:** Peer review of draft portfolios · **Reflect:** December structured feedback exchange with mentor |
 | **Jan 22, 2027** | [Semester 2 Check-In](06_CheckIn.qmd) | **Reflect:** Progress since December; set goals for the spring |
 | **Feb 26, 2027** | [Developing a Job Search Strategy](07_JobSearch.qmd) | **Learn:** Considerations for developing a job search strategy · **Reflect:** Transition planning conversation with your mentor |
 | **Mar 26, 2027** | [Professional Identity & Capstone Communication](08_Identity.qmd) | **Reflect:** Articulate and update your professional identity · **Review:** Translating your capstone work for audiences |
-| **Apr 23, 2027** | [Poster Review + Exit Prep](09_Poster.qmd) | **Review:** Peer review of draft posters · **Reflect:** April final feedback exchange with mentor |
-| **May 2027** | Awards Ceremony & Convocation | **Reflect:** Program close and recognition; mentors invited to capstone reception |
+| **Apr 23, 2027** | [Poster Pinup](09_Poster.qmd) | **Review:** Peer review of draft posters · **Reflect:** April final feedback exchange with mentor |
+| **May 6, 2027** | Awards Ceremony & Convocation | **Reflect:** Program close and recognition |

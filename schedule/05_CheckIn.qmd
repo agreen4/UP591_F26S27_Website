@@ -9,21 +9,20 @@ editor: source
 
 As we conclude our work in UP 591 for the fall semester, we'll run a studio-style peer review of near-final portfolios and launch the first structured feedback exchange with your mentors.
 
+## Before we Meet
+
+Watch our (short) **December pre-session video**.
+
+Submit your [Draft Portfolio](../milestones/04_portfolio.qmd).
+
 ### When we Meet
 
 Studio-style peer review of near-final portfolios.
 
 ### Reflect
 
-Launch of the December structured feedback exchange: your mentor provides preliminary developmental feedback (strengths, one growth area, one concrete step), and you complete a confidential evaluation of the match.
+Launch of the December structured feedback exchange: your mentor will provide developmental feedback (strengths, one growth area, one concrete step), and you will complete a confidential evaluation of your mentor.
 
-## Before we Meet
-
-Watch our (short) **December pre-session video**.
-
-Bring a near-final portfolio draft — the strongest version you have, with constituent pieces and statements organized in a logical fashion.
-
-Submit your [Draft Portfolio](../milestones/04_portfolio.qmd).
 
 ## After we Meet
 
@@ -33,7 +32,7 @@ Submit your [Draft Portfolio](../milestones/04_portfolio.qmd).
 
 - For those of you pursuing the project or thesis options, please share a substantive capstone update with your project / thesis adviser before the end of the semester.
 
-**Course milestone:** Draft Portfolio (Dec).
+**Course milestone:** Draft Portfolio
 
 **Mentoring milestone:** December structured feedback exchange + mentee evaluation.
 
