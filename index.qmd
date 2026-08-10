@@ -13,6 +13,7 @@ Welcome to the UP 591: Professional Development Seminar website for the 2026-202
 <p class="hero__eyebrow">UP 591 · AY 2026–27</p>
 <p class="hero__lede">The Professional Development Seminar is a platform to facilitate the transition from planning school to practice. The seminar supports students in advancing their professional goals and trajectories and to build a thriving and successful community of practitioners.</p>
 :::
+:::
 
 ::: home
 ::: {.grid .course-details}
