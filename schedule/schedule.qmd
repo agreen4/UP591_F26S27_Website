@@ -18,7 +18,7 @@ On the sidebar, you will find a description of each seminar session and any rela
 
 | **Date** | **Description** | **Activities** |
 |----|----|----|
-| **Aug 28, 2026** | [Seminar Introduction](01_Introduction.qmd) | **Learn:** Course introduction and structure, mentoring pilot overview · **Review:** Plan of Study Peer Review |
+| **Aug 28, 2026** | [Seminar Introduction](01_Introduction.qmd) | **Learn:** Course introduction and structure, mentoring component overview · **Review:** Plan of Study Peer Review |
 | **Sep 25, 2026** | [FAA Career Services & Building a Professional Network](02_CareerServices.qmd) | **Learn:** Conversation with Ana Rodas, FAA Career Services · **Reflect:** Building a Professional Network · **Review:** Jobs and Qualifications |
 | **Oct 30, 2026** | [Mentor Panel: Building a Professional Identity & Practice](03_MentorPanel.qmd) *(Zoom)* | **Learn:** Panel discussion with mentors · **Reflect:** Questions for the panel |
 | **Nov 20, 2026** | [Portfolio Development](04_Portfolio.qmd) | **Learn:** Portfolio structure and goals · **Reflect:** Key Document Review |
