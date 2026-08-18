@@ -42,6 +42,6 @@ You may choose the format for your portfolio - this could be a document intended
 
 Upload your draft portfolio as a single PDF document to Box using the below upload portals. Before you upload, save your file using the following naming convention -  LastName_FirstName_POS.pdf, where LastName is your surname (last name) and FirstName is your first name.
 
-<iframe src="https://uofi.app.box.com/f/a1f2b2fac2e7498ca34b2cf5f7bc552e" height="900" width="800"></iframe>
+<iframe src="https://uofi.app.box.com/f/59eee8b6abcb4e368756dd0d180e899e" height="900" width="800"></iframe>
 
 Your final portfolio will be submitted separately as part of your final capstone exit submission.

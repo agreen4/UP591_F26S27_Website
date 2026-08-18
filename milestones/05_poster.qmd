@@ -110,7 +110,7 @@ You can find examples of prior MUP posters through [UIUC IDEALS](https://www.ide
 
 Upload your draft poster as a single PDF document to Box using the below upload portal. Before you upload, save your file using the following naming convention -  LastName_FirstName_DraftPoster.pdf, where LastName is your surname (last name) and FirstName is your first name.
 
-<iframe src="https://uofi.app.box.com/f/6a91e4e69e8f4e2f976cbfc3801b667c" height="900" width="800">
+<iframe src="https://uofi.app.box.com/f/f0c3ca751ae54571a662455ce6b90724" height="900" width="800">
 
 </iframe>
 
