@@ -26,17 +26,17 @@ One of your first tasks is to "adopt" your capstone project. You will do this in
 
 ### UP 510 Workshop Descriptions
 
-You will have four UP 510 Plan Making Workshop courses to choose from in your second year of the program. Most MUP students will elect to take two workshops, one in the fall semester, and one in the spring semester. Given the intensive nature of workshops, the department does not allow students to register for more than one UP 510 offering per semester.
+You will have two UP 510 Plan Making Workshop courses in your second year of the program — one offered in the fall semester and one in the spring. Given the intensive nature of workshops, the department does not allow students to register for more than one UP 510 offering per semester.
 
-Unlike most of the other classes you take in our department, we will assign you to workshop courses taking into account your stated preferences as well as the unique demands of each workshop offering. You will complete the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) to share your preferences. The department will then assign and enroll you in fall and spring workshop offerings.
+You will complete the capstone adoption [web form](https://forms.illinois.edu/sec/1915761140) to share your capstone pathway. The department will then enroll you in the fall and spring workshop offerings.
 
-Below, are general descriptions of the UP 510: Plan Making Workshops being offered in Academic Year 2025-2026.
+Below are general descriptions of the UP 510: Plan Making Workshops being offered in Academic Year 2026-2027.
 
-#### Retrofitting Suburbia Using Small Area Plans (Fall 2025)
+#### Retrofitting Suburbia Using Small Area Plans (Fall 2026)
 
 **Instructor:** [Dustin Allred](https://urban.illinois.edu/people/profiles/dustin-allred-aicp/)
 
-**Semester Offered:** Fall 2025
+**Semester Offered:** Fall 2026
 
 **Workshop External Partner:** City of Bloomington, IL
 
@@ -44,43 +44,21 @@ Below, are general descriptions of the UP 510: Plan Making Workshops being offer
 
 **Expected Outputs:** Outputs from this workshop will include a polished professional small area type plan that synthesizes stakeholder input and background information and includes a development concept, site plan and implementation strategies. Students will also be expected to present this information to decision makers at the City of Bloomington.
 
-#### Climate and Workforce Development (Fall 2025)
+#### Community Engagement & Industrial Heritage Planning in Coal-Impacted Vermilion County, Illinois (Spring 2027)
 
 **Instructor:** [Emily Guske](https://ler.illinois.edu/directory/emily-guske/)
 
-**Semester Offered:** Fall 2025
+**Semester Offered:** Spring 2027
 
-**Workshop External Partner:** Illinois Climate Jobs Institute
+**Workshop External Partner:** Climate Jobs Institute (CJI)
 
-**Workshop Description:** This workshop is a collaboration with the Climate Jobs Institute (CJI) in the School of Labor and Employment Relations. Established to provide research support the goals of the Climate and Equitable Jobs Act, CJI is evaluating the impact of the political coalition who won support for the Act on the current development of climate-friendly (“green”) jobs. The process of making green jobs available and viable is complicated. It requires place-based networks of unions, community colleges, employers, not-for-profits and other key actors in the community and economic development process. Students in the workshop will investigate the Climate and Equitable Jobs Act’s transition from idea to reality, by evaluating the place-based networks of actors (unions, community colleges, employers, community organizations) attempting to make training programs for green jobs a reality. We will begin with background reading on green jobs and the alliances between unions and environmental organizations. The class will then assemble evidence on the effectiveness of green jobs programs elsewhere. Finally, students will use basic research methods for collecting secondary data and conducting interviews to provide an assessment of the status of green jobs programs across four Illinois cities. The results will aid CJI in supporting the development of the job-training networks whose effective operation is necessary for the law to reach its goals.
+**Workshop Description:** The 2021 Climate and Equitable Jobs Act (CEJA) requires all coal-fired electrical generation power plants in Illinois to close by 2030, with few exceptions. No requirement exists for coal mine closures under CEJA, though researchers predict that mine closures will follow plant closures. In Chicagoland, Central, and Southern Illinois, many closures have already occurred or will soon occur. Closures displace workers and impact communities economically, socially, and environmentally. While some closures preceded CEJA, the state legislative deadlines ushered in a new period in Illinois’ energy transition, creating urgent questions around the future of coal communities across the state.
 
-**Expected Outputs:** At the workshop’s conclusion, you will produce a detailed, comparative study of climate-jobs political coalitions across key Illinois cities. The study will apply the political theories you learned to data on organizations active in climate jobs, and interviews to determine the current challenges facing the law’s implementation. You will conclude the course with experience evaluating how plans and policies are actually implemented.
+In Summer 2025, the Climate Jobs Institute (CJI) at the University of Illinois Urbana-Champaign initiated [The Illinois Coal Workers & Communities Listening Project](https://ler.illinois.edu/climate-jobs-institute/coal/), a multi-year research project aimed at investigating the impacts of coal plant and mine closures. This research engages workers and community members who’ve lived through closures — or are preparing for them now — to understand what’s happening on the ground. The Illinois Coal Workers & Communities Listening Project intends to foreground lived experiences, honor workers’ stories, inform better policy, and use lessons learned to strengthen communities shaped by the coal industry.
 
-#### Global Urban Economic Development (Spring 2026)
+In this workshop sponsored by CJI, students will conduct research, community engagement, and plan-making to support The Illinois Coal Workers & Communities Listening Project. This workshop will focus on Vermilion County, located between Champaign County and the Indiana border. Vermilion County experienced a coal plant closure in 2011, and its last active coal mine closed in 2021. A thirty-minute drive from the University of Illinois Urbana-Champaign, Vermilion County possesses a rich history of coal and continues to live with its legacy. For decades, the Vermilion coal-fired power plant dumped coal ash into unlined ponds, causing arsenic, barium, boron, chromium, iron, lead, manganese, molybdenum, nickel, and sulfate to leach into the Middle Fork River and groundwater. Additionally, nearly 30 abandoned mine land sites require attention in Vermilion County.
 
-**Instructor:** [Kerry Fang](https://urban.illinois.edu/people/profiles/kerry-fang/)
-
-**Semester Offered:** Spring 2026
-
-**Workshop External Partner:** Politecnico di Milano (Italy)
-
-**Workshop Description:** This workshop is a two-campus collaboration between UIUC with Politecnico di Milano in Milan (Italy). It embraces urban economic development in a global setting, with a special focus on industrial clusters, urban creativity and innovation, and entrepreneurship. It offers a first-hand international planning experience in partnership with your Italian peers. In this workshop, we will learn theories, analytical methods, and development practices in a seminar- and discussion-based fashion from instructors and students from both campuses, introducing a wide range of global development approaches from first-hand experiences. More importantly, in this project-based class, we will team up with cross-continental peers to work on comparative projects, to explore effective ways of urban economic development, apply comprehensive methods to track the performance of different regions, and formulate policy recommendations to improve local development, create jobs, boost innovation, and prompt entrepreneurship.
-
-**Expected Outputs:** At the end of this workshop, you will produce an international comparative study in partnership with your peers from Politecnico di Milano. In this study, you will apply economic development theories and analysis tools to solve concrete planning problems in both domestic and international settings. You will also be able to formulate evidence-based policy recommendations and adapt them to different political settings.
-
-#### Central Illinois Housing Needs Assessment (Spring 2026)
-
-**Instructor:** [Andrew Greenlee](https://urban.illinois.edu/people/profiles/andrew-greenlee/)
-
-**Semester Offered:** Spring 2026
-
-**Workshop External Partner:** Illinois Housing Lab
-
-**Workshop Description:** Central Illinois’ housing landscape is rapidly changing due to major changes in population as well as major changes in both state and federal housing policy. Many communities throughout the region lack the capacity to strategically understand local housing needs or to think systematically about how local needs fit into the broader regional housing landscape. To engage these issues, in this workshop we will conduct a regional housing needs assessment with the goal of both describing the evolving housing landscape present throughout central Illinois and then providing guidance on potential strategies to address identified needs.
-
-Over the course of this workshop, we will work with the Central Illinois Land Bank Authority and other housing agencies in central Illinois to analyze trends related to housing supply and demand, and to develop a broader understanding of institutional needs and goals related to housing. Students in this workshop will work with public and proprietary sources of housing and community demographic information to produce a regional picture of housing needs, and will also gain experience conducting interviews and facilitating conversations with local communities and institutions about housing and community change.
-
-**Expected Outputs:** Outputs from this workshop will include a polished professional report summarizing the process and findings from the needs assessment. As part of this needs assessment, secondary outputs will include a data dashboard for sharing information with local communities as well as an intervention toolkit that describes potential intervention strategies to address needs that are identified.
+In Fall 2025, DURP graduate students completed a semester-long project titled “Exploring Coal’s Legacy: Heritage Trail Creation in Vermilion County”. The class documented sites that tell the story of coal’s deep influence on Vermilion County’s social, environmental, and economic landscape. UP 510 students then proposed a coal heritage trail through Vermilion County. Their mapping project highlights locations that range from local museums preserving miners’ stories to fossil-rich formations in an underground petrified rainforest, as well as areas affected by coal ash contamination along the Middle Fork River. They produced a [StoryMap](https://storymaps.arcgis.com/stories/9ce13f11c95c4313b64db849d8d7c6a7) and presented their work to the public at the Vermilion County Museum. In Spring 2027, the new cohort of students will build on the inaugural class’s research, producing an independent community-engaged project focused on planning topics like industrial heritage, collective memory, economic development, and eco-tourism.
 
 ### Additional Documentation for Projects and Theses
 

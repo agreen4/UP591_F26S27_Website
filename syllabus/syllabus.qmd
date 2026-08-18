@@ -22,7 +22,7 @@ The Professional Development Seminar is a platform for Master of Urban Planning 
 
 -   [Plan of Study template](../milestones/files/MUP Plan of Study Template 20240819.docx)
 
--   [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
+-   [MUP Program Handbook](../milestones/files/MUP Program Handbook 2026-2027.pdf)
 
 **Informal Advice**
 
@@ -48,11 +48,18 @@ Your grade in the seminar will be based upon the following:
 |-------------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Attendance**    | 20% | Attend class sessions.                                                                             |
 | **Participation** | 20% | Active participation, engagement, and contributions to our seminar.                                                                            |
-| **Milestones**    | 60% | Timely completion and engagement with seminar milestones. Production of work that exemplifies your identity as an urban planning professional. |
+| **Mentoring**     | 20% | Engagement with your matched mentor: completing the matching survey, scheduling and attending check-ins, and completing the December and April feedback exchanges and mentee evaluations. |
+| **Milestones**    | 40% | Timely completion and engagement with seminar milestones. Production of work that exemplifies your identity as an urban planning professional. |
 
 ### Participation
 
 The learning environment in this seminar depends upon your participation. Full participation is expected for all course sessions. Participation means not just being physically present, but also actively engaging in our discussions, evaluations, and providing feedback to each other.
+
+### Mentoring
+
+This seminar includes a mentoring component pairing each of you with a practicing planner. You will be matched in September on the basis of the intake materials and matching survey you complete in August, and you will meet with your mentor periodically across both semesters.
+
+Mentoring is a reciprocal commitment. You are responsible for initiating and scheduling your check-ins, coming to them prepared, and completing the two structured feedback exchanges — in December and April — in which your mentor offers developmental feedback and you complete a confidential evaluation of the mentoring relationship. Those evaluations are confidential and are used to improve the seminar; they are not shared with your mentor.
 
 ### Attendance
 

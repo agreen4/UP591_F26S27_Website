@@ -13,19 +13,17 @@ The table below outlines the major milestones you will complete to satisfy capst
 +-------------------------------------------------------------------+-----------------------------------------------------+
 | **Deliverable**                                                   | **Due Date**                                        |
 +-------------------------------------------------------------------+-----------------------------------------------------+
-| [Workshop and Capstone Pathway Adoption](01_capstoneadoption.qmd) | Capstone Adoption Web Form (all pathways): 5/2/2025 |
-|                                                                   |                                                     |
-|                                                                   | Project / Thesis Capstone Adoption Form: 9/8/2025   |
+| [Workshop and Capstone Pathway Adoption](01_capstoneadoption.qmd) | Project / Thesis Capstone Adoption Form: 9/4/2026   |
 +-------------------------------------------------------------------+-----------------------------------------------------+
-| [Plan of Study Update](02_planofstudy.qmd)                        | 9/8/2025                                            |
+| [Plan of Study Update](02_planofstudy.qmd)                        | 9/4/2026                                            |
 +-------------------------------------------------------------------+-----------------------------------------------------+
-| [Professional Development Plan](03_developmentplan.qmd)           | 10/17/2025                                          |
+| [Professional Development Plan](03_developmentplan.qmd)           | 10/30/2026                                          |
 +-------------------------------------------------------------------+-----------------------------------------------------+
-| [Draft Portfolio](04_portfolio.qmd)                               | 12/12/2025                                          |
+| [Draft Portfolio](04_portfolio.qmd)                               | 12/4/2026                                           |
 +-------------------------------------------------------------------+-----------------------------------------------------+
-| [Draft MUP Poster](05_poster.qmd)                                 | 4/22/2026                                           |
+| [Draft MUP Poster](05_poster.qmd)                                 | 4/23/2027                                           |
 +-------------------------------------------------------------------+-----------------------------------------------------+
-| [Capstone Exit Submission](06_capstoneexit.qmd)                   | 5/15/2026                                           |
+| [Capstone Exit Submission](06_capstoneexit.qmd)                   | 5/15/2027                                           |
 +-------------------------------------------------------------------+-----------------------------------------------------+
 
 It is important to review the details of each of these milestones, particularly since some have both draft and final components with separate deliverable dates. You will also find submission details and requirements for each milestone included with its description.

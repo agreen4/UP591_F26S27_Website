@@ -63,7 +63,7 @@ The [MUP Poster](05_poster.qmd) is a place for you to summarize one significant 
 
 - [Capstone Exit Form](https://web.faa.illinois.edu/app/uploads/sites/2/2025/05/04_CapstoneExit.pdf)
 
--   [MUP Program Handbook](https://web.faa.illinois.edu/app/uploads/sites/2/2024/08/MUP-Program-Handbook-2024-2025.pdf)
+-   [MUP Program Handbook](files/MUP Program Handbook 2026-2027.pdf)
 
 -   [UIUC IDEALS database](https://www.ideals.illinois.edu)
 
